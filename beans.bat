@@ -1,6 +1,6 @@
 :loop
 @echo off
-start C:\Downloads\beans.jpg
+start \beans.jpg
 pause
 exit
 goto loop
